@@ -1,1 +1,2 @@
 # SanDiegoTopSpots
+jQuery
